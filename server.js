@@ -24,7 +24,7 @@ app.get("/api/notes", (req, res) =>{
 
 
 
-
+    res.sendFile(path.join(__dirname, "/api/notes.html"));
 
 
 })
