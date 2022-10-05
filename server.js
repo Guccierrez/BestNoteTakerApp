@@ -20,6 +20,11 @@ app.get("/api/notes", (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
 })
 
+// let uuid = Math.floor((1 + Math.random()) * 0x10000)
+//     .toString(16)
+//     .substring(1);
+//     //this function just allows us to generate a random number
+
 
 app.post("/api/notes", function (req, res) {
   console.log(req.body);
