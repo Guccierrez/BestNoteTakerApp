@@ -3,18 +3,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://drive.google.com/file/d/1DfoRhCNxpoF0iJUouIVg40YYrPGHkfLJ/view">
-    <img src= "./assets/TeamGenerator.png" alt="Logo" width="160" height="120">
+  <a href="videoLink">
+    <img src= "picture of video" alt="Logo" width="160" height="120">
   </a>
 
-  <h1 align="center">Gucci's  Fortune 500 Team Generator!</h1>
+  <h1 align="center">Best Note APP ever!</h1>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-With this Node Command-line apllication you'll use inquirer to enter your employees information and generate amazing cards with all the information a head CEO will ever need.(For VIDEO WALKTHROUGH please click on image at top of the screen)
+In today's fast paced world it is incredibly difficult to stay on top of everything. Not anymore! With this new technology you can not only write notes anywhere that you can open a web app but you can also save them and refer back to them in the future. I know what you're thinking "but there will be so many notes since I take them daily." WRONG, this web app comes with a built in DELETE function to help you stay clutter free! Now you have no excuse but to succeed!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -45,7 +45,7 @@ With this Node Command-line apllication you'll use inquirer to enter your employ
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-To use the app open the terminal, Select proper employee and then enter their information accordingly. Then a team page will be generated that displays everyone's information that was entered 
+Once repo is cloned and node installed, open the the browser and go to http://localhost:3000/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +79,7 @@ Fabian Gutierrez - [fabiangutierrez580@gmail.com]
 (LinkedIn) - [www.linkedin.com/in/fabian-gutierrez-016523248]
 
 
-Project Link: [https://github.com/Guccierrez/TeamProfileGenerator]
+Project Link: []
 
 
 
@@ -88,7 +88,7 @@ Project Link: [https://github.com/Guccierrez/TeamProfileGenerator]
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-Again shout out to My instructors, Mr. Edwards and Mr. Andrew. This week I'd also like to thank my tutor Mr. Andres Jimenez.
+Again shout out to My instructors, Mr. Edwards and Mr. Andrew.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
