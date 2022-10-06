@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Guccierrez/BestNoteTakerApp">
-    <img src= "./assets/BestNotes.png" alt="Logo" width="180" height="160">
+    <img src= "./assets/BestNotes.png" alt="Logo" width="400" height="250">
   </a>
 
   <h1 align="center">Best Note APP ever!</h1>
@@ -38,6 +38,7 @@ In today's fast paced world it is incredibly difficult to stay on top of everyth
 * Step 1: Clone repo
 * Step 2: Make sure you have Node.js
 * Step 3: use "npm i" to install the packages required
+* Step 4: run this command to install uuid "npm install uuid"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
