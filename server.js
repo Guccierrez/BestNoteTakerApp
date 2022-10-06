@@ -3,7 +3,7 @@ const app = express();
 const path = require("path");
 const PORT = process.env.PORT || 3001;
 const db = require("./db/db.json");
-const uuid = require('./routes/numberGenerator');
+const { v4: uuidv4 } = require('uuid');;
 const { readFromFile, readAndAppend, readAndDelete } = require('./routes/readWriteFiles');
 
 // Middleware for parsing JSON and urlencoded form data
@@ -20,10 +20,6 @@ app.get("/api/notes", (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
 })
 
-// let uuid = Math.floor((1 + Math.random()) * 0x10000)
-//     .toString(16)
-//     .substring(1);
-//     //this function just allows us to generate a random number
 
 
 app.post("/api/notes", function (req, res) {
@@ -35,7 +31,7 @@ app.post("/api/notes", function (req, res) {
     const newNote = {
       title, 
       text,
-      id: uuid()
+      id: uuidv4()
     };
     readAndAppend(newNote, './db/db.json');
     //res is backend to frontend 
