@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="videoLink">
-    <img src= "picture of video" alt="Logo" width="160" height="120">
+  <a href="https://github.com/Guccierrez/BestNoteTakerApp">
+    <img src= "./assets/BestNotes.png" alt="Logo" width="180" height="160">
   </a>
 
   <h1 align="center">Best Note APP ever!</h1>
@@ -79,7 +79,7 @@ Fabian Gutierrez - [fabiangutierrez580@gmail.com]
 (LinkedIn) - [www.linkedin.com/in/fabian-gutierrez-016523248]
 
 
-Project Link: []
+Project Link: [https://github.com/Guccierrez/BestNoteTakerApp]
 
 
 
